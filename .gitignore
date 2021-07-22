@@ -8,7 +8,11 @@
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
-.mtj.tmp/
+.mtj.tmp/ 
+
+#Target folder 
+target/
+/target/*
 
 # Package Files #
 *.jar
